@@ -1,0 +1,286 @@
+{
+  "mainTrack": 0,
+  "tracks": [
+    {
+      "track": "audio",
+      "segment": {
+        "haveChildren": true,
+        "loops": 0,
+        "children": [
+          {
+            "loops": 1,
+            "duration": 226037,
+            "option": {
+              "uri": "orchestration://audio/yijianmei",
+              "streamType": 2
+            }
+          }
+        ],
+        "duration": 227000
+      }
+    },
+    {
+      "track": "emotion",
+      "segment": {
+        "haveChildren": true,
+        "loops": 1,
+        "children": [
+          {
+            "isBlank": true,
+            "duration": 1523
+          },
+          {
+            "loops": 1,
+            "duration": 1626,
+            "option": {
+              "uri": "orchestration://emotion/bodychange"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 23139
+          },
+          {
+            "loops": 1,
+            "duration": 1626,
+            "option": {
+              "uri": "orchestration://emotion/bodychange"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 20733
+          },
+          {
+            "loops": 1,
+            "duration": 1626,
+            "option": {
+              "uri": "orchestration://emotion/bodychange"
+            }
+          },
+          {
+            "loops": 1,
+            "duration": 6641,
+            "option": {
+              "uri": "orchestration://emotion/normal"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 45446
+          },
+          {
+            "loops": 1,
+            "duration": 1560,
+            "option": {
+              "uri": "orchestration://emotion/parts"
+            }
+          },
+          {
+            "loops": 1,
+            "duration": 6641,
+            "option": {
+              "uri": "orchestration://emotion/normal"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 8246
+          },
+          {
+            "loops": 1,
+            "duration": 6641,
+            "option": {
+              "uri": "orchestration://emotion/normal"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 232753
+          },
+          {
+            "loops": 1,
+            "duration": 6641,
+            "option": {
+              "uri": "orchestration://emotion/normal"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 21236
+          },
+          {
+            "loops": 1,
+            "duration": 1626,
+            "option": {
+              "uri": "orchestration://emotion/bodychange"
+            }
+          },
+          {
+            "loops": 1,
+            "duration": 1626,
+            "option": {
+              "uri": "orchestration://emotion/bodychange"
+            }
+          },
+          {
+            "loops": 1,
+            "duration": 3483,
+            "option": {
+              "uri": "orchestration://emotion/inputsensor"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 6331
+          },
+          {
+            "loops": 1,
+            "duration": 1510,
+            "option": {
+              "uri": "orchestration://emotion/insertsteer"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 45284
+          },
+          {
+            "loops": 1,
+            "duration": 1510,
+            "option": {
+              "uri": "orchestration://emotion/insertsteer"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 79561
+          },
+          {
+            "loops": 1,
+            "duration": 3483,
+            "option": {
+              "uri": "orchestration://emotion/inputsensor"
+            }
+          },
+          {
+            "loops": 1,
+            "duration": 1626,
+            "option": {
+              "uri": "orchestration://emotion/bodychange"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 18523
+          },
+          {
+            "loops": 1,
+            "duration": 1510,
+            "option": {
+              "uri": "orchestration://emotion/insertconnect"
+            }
+          },
+          {
+            "loops": 1,
+            "duration": 6641,
+            "option": {
+              "uri": "orchestration://emotion/normal"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 4935
+          },
+          {
+            "loops": 1,
+            "duration": 1560,
+            "option": {
+              "uri": "orchestration://emotion/parts"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 6972
+          },
+          {
+            "loops": 1,
+            "duration": 3483,
+            "option": {
+              "uri": "orchestration://emotion/inputsensor"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 6330
+          },
+          {
+            "loops": 1,
+            "duration": 1510,
+            "option": {
+              "uri": "orchestration://emotion/insertconnect"
+            }
+          },
+          {
+            "loops": 1,
+            "duration": 1510,
+            "option": {
+              "uri": "orchestration://emotion/insertsteer"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 17833
+          },
+          {
+            "loops": 1,
+            "duration": 1626,
+            "option": {
+              "uri": "orchestration://emotion/bodychange"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 15442
+          },
+          {
+            "loops": 1,
+            "duration": 3483,
+            "option": {
+              "uri": "orchestration://emotion/inputsensor"
+            }
+          },
+          {
+            "loops": 1,
+            "duration": 3483,
+            "option": {
+              "uri": "orchestration://emotion/inputsensor"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 16714
+          },
+          {
+            "loops": 1,
+            "duration": 3483,
+            "option": {
+              "uri": "orchestration://emotion/inputsensor"
+            }
+          },
+          {
+            "isBlank": true,
+            "duration": 8037
+          },
+          {
+            "loops": 1,
+            "duration": 3483,
+            "option": {
+              "uri": "orchestration://emotion/inputsensor"
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
